@@ -1,5 +1,12 @@
 ### Hi there 👋
 
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=terry3041" />
+</a>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=terry3041&layout=compact" height="195" />
+</a>
+
 <!--
 **terry3041/terry3041** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
