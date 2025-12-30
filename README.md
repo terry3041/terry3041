@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[![terry3041's GitHub stats](https://github-readme-stats.vercel.app/api?username=terry3041&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+![terry3041's GitHub stats](./profile/stats.svg)
 
 ### History
 
