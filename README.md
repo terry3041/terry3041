@@ -4,7 +4,7 @@
 
 ### History
 
-- 🎓 [The University of Hong Kong](https://hku.hk/) 2021.09 ~
+- 🎓 [The University of Hong Kong](https://hku.hk/) 2021.09 ~ 2025.06
 
 ### Tech Stack
 
